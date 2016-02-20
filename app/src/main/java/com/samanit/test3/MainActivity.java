@@ -16,6 +16,7 @@ public class MainActivity extends AppCompatActivity {
         //Master1
         //master2
         //Master3
+        //Master4
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
